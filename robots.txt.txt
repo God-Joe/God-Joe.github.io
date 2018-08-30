@@ -11,5 +11,5 @@ Disallow: /fonts/
 Disallow: /vendors/
 Disallow: /fancybox/
 
-Sitemap: http://god-joe.top/sitemap.xml
-Sitemap: http://god-joe.top/baidusitemap.xml
+Sitemap: http://www.god-joe.top/sitemap.xml
+Sitemap: http://www.god-joe.top/baidusitemap.xml
